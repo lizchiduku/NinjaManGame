@@ -1,4 +1,4 @@
-# NinjaManBasicJSProject_CodingDojoAcademy
+# Ninja Man Project: A Pac-Man clone
 This is a basic JS practice session project for a pacman clone with a ninja.
 
 <br /> **Things to add:**
