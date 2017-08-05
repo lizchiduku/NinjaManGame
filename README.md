@@ -1,5 +1,5 @@
 # Ninja Man Project: A Pac-Man clone
-This is a basic JS practice session project for a pacman clone with a ninja.
+This is a project for a Pac-Man clone with a ninja protagonist using basic HTML, CSS and a vanilla JavaScript.
 
 <br /> **Things to add:**
 - [ ] (Basic) Increase the size of the world
