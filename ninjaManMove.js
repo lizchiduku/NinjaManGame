@@ -35,6 +35,7 @@ document.onkeydown = function (e) {
             ninjaman.y--;
         }
     }
+    
     world[ninjaman.y][ninjaman.x] = 0;
     drawNinjaman();
     drawWorld();
